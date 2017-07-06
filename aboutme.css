@@ -13,6 +13,10 @@ h1.centerAndLower {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+body {
+  text-align: center;
+}
+
 .button {
   border-radius: 50px;
   background-color: blue;
