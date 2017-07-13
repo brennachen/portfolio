@@ -5,12 +5,15 @@ ul {
   overflow: hidden;
 }
 
+li{
+ float:left;
+}
+
 li a{
  display:block;
  color:darkslateblue;
  padding: 50px;
  text-decoration: none;
- font-family: "Palatino Linotype",Book Antiqua",Palatino, serif;
 }
 
 html {
